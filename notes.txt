@@ -1,0 +1,7 @@
+brief = "This is my idea, look at all the problems it solves!"
+"Hey customer, ok."
+
+prd = "user needs: create account, edit calendar..."
+"Hey customer, is this what you wanted?"
+
+front end spec = "click task -> enter title -> ... colors: ..."
